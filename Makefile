@@ -1,2 +1,2 @@
 all:
-	gcc -o main Lab31.c
+	gcc -o main improper.c
