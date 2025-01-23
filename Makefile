@@ -1,2 +1,2 @@
 all:
-	gcc -o main improper.c
+	gcc -o main sample.c
